@@ -17,8 +17,9 @@ All projects are coded in Python, with a strong emphasis on clean architecture, 
 
 ## 📂 Current Projects
 
-### 📈 1. `vwap_daily_trade`
-Adaptation of VWAP intraday trading to daily trading.
+### 📈 1. `vwap_intraday_trade`
+
+
 > `Tech:` `Pandas` `Matplotlib` `NumPy`
 
 ---
